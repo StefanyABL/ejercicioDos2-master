@@ -1,1 +1,2 @@
-# ejercicioDos2-master
+# ejercicioDos2
+ejercicio programación
